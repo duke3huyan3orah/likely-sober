@@ -4,6 +4,8 @@ A small 2D pixel-art platformer built with Godot and GDScript. Run and jump thro
 
 Made for **Jumpstart - Haven**.
 
+Play the game from here: https://dietcokegamedev.itch.io/likely-sober
+
 ## Features
 
 - Animated knight character with idle, run, and jump animations
